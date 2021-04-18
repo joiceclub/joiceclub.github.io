@@ -13,16 +13,18 @@
     justify-content: center;
     width: 100%;
     padding: 0 40px 0 0;
-    
+
     .hero__title {
       font-size: 38px;
       font-weight: normal;
+      text-align: center;
     }
 
     .hero__subtitle {
       font-size: 18px;
       line-height: 32px;
       letter-spacing: 0.5px;
+      text-align: justify;
     }
 
     .hero__social {
@@ -68,7 +70,7 @@
 
     .hero__image {
       margin-bottom: 20px;
-      
+
       img {
         box-shadow: none;
       }
