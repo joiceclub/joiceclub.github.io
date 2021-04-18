@@ -1,5 +1,6 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+host: 0.0.0.0
 
 
 # Build settings
